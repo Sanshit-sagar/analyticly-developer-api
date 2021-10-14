@@ -1,0 +1,34 @@
+{
+  "name": "analyticly-express-server",
+  "version": "1.0.0",
+  "description": "developer api for the analytic.ly app",
+  "main": "index.js",
+  "scripts": {
+        "tsc": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanshit-sagar/analyticly-developer-api.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "middleware",
+    "analyticly",
+    "redis",
+    "web",
+    "analytics",
+    "feature",
+    "toggles"
+  ],
+  "author": "Sanshit Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanshit-sagar/analyticly-developer-api/issues"
+  },
+  "homepage": "https://github.com/Sanshit-sagar/analyticly-developer-api#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}

@@ -1,0 +1,13 @@
+
+
+const slugData = [
+    {
+        id: 1,
+        slug: 'slug_one',
+        destination: 'https://www.sanshitsagar.com',
+        password: undefined,
+        expiration: undefined,
+        authMethod: undefined,
+
+    }
+]

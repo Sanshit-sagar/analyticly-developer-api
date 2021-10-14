@@ -1,0 +1,1 @@
+import slugData from './'

@@ -1,0 +1,6 @@
+
+
+interface Slug {
+    slug: string;
+    
+}

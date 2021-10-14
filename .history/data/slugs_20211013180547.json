@@ -1,0 +1,14 @@
+
+
+[
+    {
+        "id": 1,
+        "slug": "slug_one",
+        "destination": "https://www.sanshitsagar.com',
+        "password": null, 
+        "expiration": null,
+        "authMethod": null, 
+
+    },
+
+]

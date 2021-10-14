@@ -1,0 +1,4 @@
+
+const toNewSlug = (object: unknown) => {
+    
+}

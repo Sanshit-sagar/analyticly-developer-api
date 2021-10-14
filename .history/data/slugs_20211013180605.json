@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "id": 1,
+        "slug": "slug_one",
+        "destination": "https://www.sanshitsagar.com',
+        "password": null, 
+        "expiration": null,
+        "authMethod": null, 
+    },
+    {
+        "id": 2,
+        "slug": "slug_one",
+        "destination": "https://www.sanshitsagar.com',
+        "password": null, 
+        "expiration": null,
+        "authMethod": null, 
+    },
+    {
+        "id": 1,
+        "slug": "slug_one",
+        "destination": "https://www.sanshitsagar.com',
+        "password": null, 
+        "expiration": null,
+        "authMethod": null, 
+    },
+
+]

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    
+    "target": "ES6",   
+    "outDir": "./build/",                        
+    "module": "commonjs",    
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitAny": true,                           
+    "esModuleInterop": true,                            
+    "forceConsistentCasingInFileNames": true,           
+    "strict": true,                                    
+    "skipLibCheck": true                               
+  }
+}
+

@@ -1,0 +1,11 @@
+
+
+const slugData = [
+    {
+        id: 1,
+        slug: 'slug_one',
+        password: undefined,
+        expiration: undefined,
+        
+    }
+]

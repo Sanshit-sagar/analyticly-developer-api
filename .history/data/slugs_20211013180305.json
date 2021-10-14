@@ -1,0 +1,9 @@
+
+
+const slugData = [
+    {
+        id: 1,
+        slug: 'slug_one',
+        
+    }
+]

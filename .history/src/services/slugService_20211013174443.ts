@@ -1,0 +1,5 @@
+import slugData from '../../data/slugs.json'
+
+const getSlugs = () => {
+    
+}
